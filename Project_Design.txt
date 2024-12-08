@@ -15,7 +15,7 @@ html layout structure-
 Step-3:
 CSS styling for visual appealing the layout-
 	1.Set input field and button inline through flexbox.
-	2.Syling task list items (color,spacing, hover effect).
+	2.Styling task list items (color,spacing, hover effect).
 	3.Apply different visually styling to the complete task using line-through 	  style.
 	4. Ensure responsive design.
 
