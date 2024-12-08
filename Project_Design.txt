@@ -1,0 +1,33 @@
+Step-1:
+ToDo List project final Goal-
+
+	1.Add Task
+	2.Delete Task.
+	3.Complete Task.
+
+Step-2:
+html layout structure-
+
+	1.Create html input field
+	2.Add button for adding task to the task list.
+	3.A list where completed task will be displayed(with complete and delete 	option)
+	 
+Step-3:
+CSS styling for visual appealing the layout-
+	1.Set input field and button inline through flexbox.
+	2.Syling task list items (color,spacing, hover effect).
+	3.Apply different visually styling to the complete task using line-through 	  style.
+	4. Ensure responsive design.
+
+Step-4: 
+Add JavaScript Functionality list:
+	1.Add Task: Collect task through input field and display the task list.
+	2.Mark as Complete: When click the task use style for complete task.
+	3.Delete Task: Add delete button beside tasklist to remove task.
+Step-5:
+To keep code modular follow the step:
+	1. Display input field value.
+	2. Add task to the task list using dynamical approach.
+	3.Implement delte button functionality.
+
+Test and Debug:
