@@ -1,3 +1,4 @@
+
 const taskList = [{
     name: "Wash Dishes",
     dueDate:"2024-12-18"
@@ -7,7 +8,7 @@ const taskList = [{
 }];
 let taskBtn = document.getElementById('js-task-btn');
 taskBtn.addEventListener("click", function () {
-    addTodo();
+ addTodo();
 });
 
 renderTodoList();

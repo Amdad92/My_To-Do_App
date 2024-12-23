@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-div{
+  width: 50%;
+  min-width: 300px;
+  height: 50vh;
+  padding: 10px 20px;
+  display: grid;
+  place-items: center; 
+  text-align: center; 
+  background-color: lightgreen; /* optional */
+}
+input{
+    padding: 3px;
+    width: 176px;
+    border: none;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+button{
+    padding: 5px 5px;
+    width: 60px;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+p{
+    margin-bottom: 5px;
+}
